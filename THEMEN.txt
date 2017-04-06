@@ -1,0 +1,866 @@
+
+Stoffbereiche von dem geposteten Link (für Copy/Paste in die Mindmaps)
+https://fachinformatiker-anwendungsentwicklung.net/moegliche-themen-der-abschlusspruefung/ 
+in MindMap Templates bringen, nach und nach Definitionen - es gehen auch Bilder - etc. eintragen und vervollständigen:
+
+man kann die Zweige dynamisch ein u. ausklappen und so überprüfen, wieweit man in der Lage ist was wiederzugeben - wie Vokabelkarten, 
+nur dynamisch und zum Themenfeld verbunden - Bilder kann man auch in die Zweige legen .. Links auf Webseiten und zu Dateien.
+Ausgelagerte untergeordnete Maps bleiben mit dem Parent verlinkt, alles zusammen bildet eine 
+komfortabel zu bedienende Mappensammlung.
+
+Man kann sich anschaulich machen, wo in der persönlichen MindMap noch die "weissen Flecken" sind, 
+wenn man sie konsequent selbst aufbaut:
+wo leer, da gibts noch was zu tun.
+
+Weiterer Link auf FIAE mit Stoffbehandlung (ist in Anfangsmap bereits verknüpft):
+http://www.fiae.eu/themen/
+
+*************************
+
+Fachrichtung:
+Anwendungsentwicklung
+Systemintegration
+Kernqualifikation
+...
+weitere : Informatikkauffrau ....
+
+Prüfung : 2002 - 2013 (So / Wi), 2014 So. (27 Stück!)
+...
+weitere : 2014 WI, 2015 So / Wi, 2016 So / Wi.
+
+
+xxxxxxxxxxxxxxxxxxxxxx
+
+Mindmap-Aufbau (als Schema z.B.:)
+
+Fachgebiet
+Thema - Kurzdef - Aufgabe 1 (Lösg); Aufgabe 2 (Lösg)
+
+oder 
+Thema - Kurzdef - Aspekt 1 (Erläugerungen); Aspekt 2 (Bild) ...
+
+xxxxxxxxxxxxxxxxxxxxxx
+
+Thema/HAL:
+-------
+
+AGB
+
+Alarmtechnik
+
+Algorithmus
+
+ARP
+
+Assembler
+
+Backbone
+
+Backup
+
+Berechnungen
+
+Blackberry
+
+Bluetooth
+
+BWL
+
+Cache
+
+Cloud
+
+Compiler
+
+Cookie
+
+CPU
+
+CRM
+
+CTI
+
+Customizing
+
+Datenbank
+
+Datenbankserver
+
+Datenschutz
+
+Datensicherheit
+
+Datensicherung
+
+DBMS
+
+DHCP
+
+DMZ
+
+DNS-Server
+
+DOS
+
+DSL
+
+EAN
+
+Entscheidungstabelle
+
+Entwicklung
+
+EPK
+
+ER-Modell
+
+Extranet
+
+Festplatte
+
+Filter
+
+Firewall
+
+Firewire
+
+Flashcard
+
+Gewichtung
+
+GPS
+
+Hardware
+
+HexDump
+
+Hotswap
+
+ICMP
+
+Infrarot
+
+Internet
+
+Interpreter
+
+IPv4
+
+IPv6
+
+ISDN
+
+IST-Analyse
+
+JDBC
+
+Kalkulation
+
+Klassendiagramm
+
+Kommunikation
+
+Kostenberechnung
+
+LAN
+
+Lastenheft
+
+Laufwerke
+
+LDAP
+
+Linux
+
+Load Balance
+
+Mainboard
+
+NAT
+
+Netzplantechnik
+
+Netzwerkkabel
+
+Netzwerkplan
+
+Nutzwertanalyse
+
+ODBC
+
+OLED
+
+OOP
+
+Organigramm
+
+Organisation
+
+OSI-Schichtenmodell
+
+PAP
+
+PCI 
+
+Pflichtenheft
+
+PoE
+
+POP 3
+
+Programmablaufplan
+
+Programmiersprachen
+
+Programmlogik
+
+Projektmanagement
+
+Proxyserver
+
+Quelltext
+
+Radius
+
+Rahmenvertrag
+
+RAID
+
+RAM
+
+RAS
+
+RFID
+
+RIP
+
+Router
+
+SAN
+
+SATA
+
+Scanner
+
+Schaltthema
+
+Schnittstellen
+
+SCSI
+
+Sequenzdiagramm
+
+Server
+
+SHA 
+
+Sicherheit
+
+Sitemap
+
+Skript
+
+SmartPhones
+
+SMTP
+
+Software
+
+Softwareentwicklung
+
+Speichermedien
+
+SQL
+
+Struktogramm
+
+Subnetmasken
+
+Support
+
+Switch
+
+TCO-Norm
+
+TCP
+
+Telnet
+
+TerminalServer
+
+Testen
+
+TFT
+
+ThinClient 
+
+UDP
+
+Uebersetzung
+
+UML
+
+USB
+
+USB2.0
+
+UseCase
+
+USV
+
+UML
+
+Verschlüsselung
+
+Vertragsrecht
+
+Verwaltungssystem
+
+Verzeichnissynchronisation
+
+Virtualisierung
+
+VLAN
+
+VOIP
+
+VPN
+
+Wahrheitstabelle
+
+Webseite
+
+Webserver
+
+WLAN
+
+Zertifikate
+
+Zugangskontrolle
+
+
+
+
+
+xxxxxxxxxx
+
+weitere Themen 
+
+https://fachinformatiker-anwendungsentwicklung.net/moegliche-themen-der-abschlusspruefung/
+
+Aktuelles (2016)
+----------------
+
+Smart Watches
+
+Internet of Things (IoT)
+
+Industrie4.0
+
+Functional Reactive Programming
+
+NoSQL
+
+Big Data
+
+
+https://fachinformatiker-anwendungsentwicklung.net/moegliche-themen-der-abschlusspruefung/
+
+THEMENBEREICHE
+
+
+Software-Qualität
+------------------
+Definition Software-Qualität?
+
+Software-Qualitätsmerkmale nach DIN/ISO nennen und erläutern
+
+Methoden für Software-Tests
+- Bottom-UP und Top-Down
+- statisches/dynamisches Testen
+- Abnahme-, Last-, Funktions-, Regressionstest
+- Black-/Whiteboxtest, Anweisungsüberdeckung/Zweigüberdeckung
+- Komponenten-, Integrations-, Systemtest
+- exploratives Testen, Smoketest
+
+Maßnahmen zur Qualitätssicherung (Audits, Reviews, Testmethoden)
+
+Programmierung
+---------------
+Programmierparadigmen (OO, strukturiert, prozedural, funktional)
+Eigenschaften funktionaler Programmierung Higher Order Functions, Immutability, Tail Call Optimization, Pattern Matching, Fokus auf Rekursion
+Typisierung: stark vs. schwach, statisch vs. dynamisch
+Klassifizierung von Programmiersprachen anhand von Typisierung, Paradigma, Compiler/Interpreter, Abstraktionsniveau, C-ähnlich oder nicht
+deklarativ vs. imperativ
+Unterschied Interpreter/Compiler
+3GL/4GL
+die gängigen Programmiersprachen kennen (PHP, Perl, Java, C, C++, C#, JavaScript)
+Rekursion
+Unterschied syntaktische/semantische Fehler
+Benutzereingaben sinnvoll validieren
+Generische Klassen
+	Vorteile generischer Container (Templates in C++) gegenüber Arrays
+Unterschied statische/nicht-statische Methoden
+Kontrollstrukturen
+	- allgemeine Programmstrukturen identifizieren/erläutern (Schleifen etc.)
+	- grundlegende Kontrollstrukturen in allen Diagrammformen (PAP Programmablaufplan, Nassi-Schneiderman/Struktogramm) darstellen können
+	- Merkmale/Unterschiede von Kontrollstrukturen (Schleifen, Fallunterscheidungen)
+	- Zustandsübergänge eines Zustandsautomaten abbilden
+Datenstrukturen
+	Queue, Bäume, Stack, Heap
+Allgorithmen als PAP/Struktogramme/Pseudocode darstellen
+Reguläre Ausdrücke zur Textanalyse erstellen
+mögliche Aufgaben
+	- Fehler in Programmcode finden (C)
+	- Algorithmen implementieren/durchspielen
+		- Mittelwert
+		- doppelte Einträge in einem Array finden/löschen
+		- Dateibäume rekursiv kopieren
+		- (Zinses-)Zinsberechnung
+		- Planen eines regelmäßigen Backups
+		- Ablauf einer Benutzerauthentifizierung an einer Website
+		- Abbuchen von einem Konto
+
+Softwareentwicklung
+--------------------
+Arten von Software unterscheiden (Individual-/Branchensoftware)
+	- ERP, CRM, CAD, CMS, DMS, PPS, ECM
+Unterschied prozedurale/objektorientierte Entwicklung/Modellierung
+Prinzipien der OOP
+	- Begriffe der OOP erläutern: Attribut, Nachricht/Methodenaufruf, Persistenz, Schnittstelle/API/Interface, Polymorphie, Vererbung
+	- Bestandteile von Klassen
+	- Unterschied Klasse/Objekt
+	- Unterschied Klasse/Interface
+	- Erklärung Klassenbibliothek
+	- Klassenbeziehungen: Assoziationen, Aggregation, Komposition, Spezialisierung, Generalisierung
+Software-Architektur
+	- Layers/Schichten/3-Tier, MVC, MVVM, SOA, Microservices, REST, Pipes and Filters, Monolith
+	- Zustandslosigkeit, lose Kopplung
+Bottom-Up- und Top-Down-Verfahren bei der Modellierunt erläutern
+Funktion/Vorteile der Modularisierung von Programmen
+Wichtige UML-Diagramme (UseCase-, Klassen-, Sequenz-, Aktivitätsdiagramm, Zustandsautomaten, Komponentendiagramm, Verteilungsdiagramm) kennen und Einsatzgebiete erläutern
+Design Patterns kennen/erklären
+	Singleton, Observer, Factory, Adapter, Iterator, Strategy, Decorator, Template Method, Registry, MVC
+Methoden zur Dokumentation
+Eigenschaften eines Versionsverwaltungssystems beschreiben
+	SVN, CVS, TFS mit Source Safe, Git
+	VCS vs. DVCS
+Continous Integration/Deployment
+Entwicklungsprozesse
+	Wasserfall, V-Modell(XT), Spiralmodell, Scrum, Extreme Programming, Kanban
+mögliche Aufgaben
+	- gegebene Klassen in ein Klassendiagramm eintragen (inkl. Beziehungstypen und Kardinalitäten)
+	- Klassendiagram vervollständigen
+	- Use-Case-Diagramm erstellen
+Anforderungen durch Mobilgeräte
+	- Offline-Fähigkeit, Deployment auf mehrere Plattformen, verschiedene Programmiersprachen, 
+	native Apps vs. HTML5/JavaScript, geringe Bandbreitein, kleine Auflösungen
+Richtlinien bei der Gestaltung von Programmoberflächen
+	- Aufgabenangemessenheit, Selbstbeschreibungsfähigkeit, Lernförderlichkeit, Steuerbarkeit, Erwartungskonformität, Individualisierbarkeit, 
+	Fehlertoleranz (siehe Grundsätze der Dialoggestaltung, Link: http://de.wikipedia.org/wiki/EN_ISO_9241#EN_ISO_9241-110_Grunds.C3.A4tze_der_Dialoggestaltung)
+ 	Barrierefreiheit
+
+
+Prozessanalyse
+---------------
+Prozessdiagramme/EPKs erstellen/korrigieren/optimieren
+Ablauf eines üblichen Geschäftsprozesses (von Kundenanfrage bis Zahlungseingang) kennen
+Symbole des Petri-Netzes erläutern
+
+Projektmanagement
+-----------------
+Definition Projekt
+Übliche Projektphasen (Idee, Zielfindung, Auftrag, Planung, Durchführung, Kontrolle etc.)
+	- Beispiele für Aufgaben in den jeweiligen Phasen
+Aufgaben/Inhate/Verbindlichkeit von Lasten-/Pflichtenheften und Angeboten
+	- Lastenheft: was/wofür?
+	- Pflichtenheft: wie/womit?
+Aufgaben des Projektleiters
+Netzplan, Gantt-Diagramm, PSP (Projektstrukturplan) erstellen/vervollständigen
+	- kritischen Pfad ermitteln
+Personaleinsatzplan füllen
+Formen der Projektorganisation mit Vor-/Nachteilen
+Nutzwertanalyse durchführen
+SMARTe Ziele definieren
+
+Netzwerk und Administration
+----------------------------
+Methoden zur Namensauflösung erklären (DNS, hosts)
+	- DNS-Konfiguration
+	- DNS-Einträge: A, AAAA, NS, PTR, MX, SOA, CNAME
+DNS, DHCP, WINS, ARP, Subnetting, Topologien
+	- Ablauf beim DHCP-Lease(Discover -> Offer -> Request -> Acknowledge)
+	- ping (ICMP)
+	- MAC vs. IP
+IPv4, IPv6, A/B/C-Klassennetze
+	- öffentliche/private IP-Adressen
+Protokolle mit Port-Nummern (HTTP, HTTPS, FTP, SMTP, POP3, IMAP, DNS, SMB, Telnet, SSH)
+Unterschiede IMAP/POP3/SMTP
+Routing
+Firewall
+	- Packet Inspection, Port-Forwarding
+Proxy-Server (Squid)
+	- dedicated, circuit level
+Sicherheitsmaßnahmen
+	- Vorteile von SSH
+	- Unterschied HTTP/HTTPS
+Struktur eines Class-C-Netzes erläutern
+Funktionsweise und Vorteile von VPN beschreibein
+	- Protokolle/Ports, Verschlüsselungsverfahren
+	- L2TP, PPTP, IPSec
+ISDN, ADSL, SDSL, VDSL, UMTS, LTE
+	- Datenraten, Technik
+FDDI (Lichtwelle)/Ethernet beschreiben
+Netzwerkhardware (Hub, Bridge, Switch, Router) mit Zuordnung zu ISO-Schichten
+	- Switches/Hubs unterscheiden
+Serverarten nennen (z.B. Print-/Fileserver)
+	- Aufbau, Vor-/Nachteile Terminalserver erläutern
+Clustering, Load Balancing
+	- Round Robin
+RDP/ICA unterscheiden
+ISO/OSI-Modell (7 Schichten) im Vergleich zum TCP/IP-Modell (4 Schichten)
+TCP vs. UDP
+	- TCP-Handshake, 3-Way-Handshake
+Backup
+	- Medien nennen und erläutern
+	- inkrementell/differentiell/voll
+	- Generationenprinzip, Großvater/Vater/Sohn
+	- hot/cold
+	- wie erkennt die Software, welche Daten zu sichern sind?
+	- schützenswerte Daten
+	- mögliche Gründe für Datenverluste auf Servern erläutern und Gegenmaßnahmen vorschlagen
+	- Folgen von Datenverlust, Auswirkungen von Datenverlusten für das Unternehmen erläutern
+	- Maßnahmen der Mitarbeiter zur Vermeidung von Datenverlusten erläutern
+Archivierung (rechtliche Vorgaben, Unterschied zu Backup, technologische Anforderungen)
+Client/Server vs. P2P
+	- File Sharing
+Primäre/sekundäre/tertiäre Verkabelung
+	- Kabeltypen
+	- Simplex, Halb-/Vollduplex
+	- 10/100/1000Base-T
+	- Twisted Pair, CAT5e/6/7 etc.
+	- Fibre Channel, Lichtwellenleiter
+	- DIN EN 50173-1
+	- EM-Verträglichkeit
+CSMA/CD, Token
+VLAN
+	- statisch/dynamisch, tagged/untagged
+VoIP, QoS, SIP
+Authentifizierung vs. Autorisierung
+	Warum sollten sich Benutzer ggü. Systemen authentifizieren?
+mögliche Aufgaben:
+	- Dauer einer Datensicherung berechnen
+	- Netzwerk konzipieren (Router, Firewall, Clients)
+
+Multimedia
+------------
+Datenraten von verschiedenen Laufwerken (Festplatte, CD, DVD)
+Audiobearbeitung
+	- Sampling (-rate, -tiefe)
+Bildbearbeitung
+	- Auflösung
+	- GIF, JPG/JPEG, TIF, PNG, SVG, MPEG
+	- OCR
+	- Unterschied Raster/Vektorgrafik
+Zeichensätze kennen und Unterschiede aufzeigen
+	- ASCII, Unicode, UTF-8 kennen und erklären
+Kryptographie
+	- symmetrische/asymmetrische Verschlüsselung
+		PKI, BSI
+	- Was ist eine Prüfsumme/Hash?
+	- ausgewählte Verschlüsselungsverfahren kennen
+	- digitale Signatur, Zertifikat
+Datensicherheit
+	- Authentizität, Autorisierung, Integrität, Vertraulichkeit
+	- Biometrie, 2-Faktor-Authentifizierung, Passwortrichtlinien, Verhaltensregeln
+Kompresion
+	- verlustbehaftet vs. verlustfrei
+		- ZIP
+		- Huffman-Code
+Längs-/Querparität berechnen
+XML
+	- Wohlgeformtheit, Validität
+	- Parser, Serialisierer
+		- SAX, DOM
+	- vs. HTML, CSV etc.
+	- DTD, Schema, RelaxNG, Schematron
+	- XSLT, XSL-FO
+mögliche Aufgaben
+	Dateigrößen von Bildern/Videos berechnen
+3D-/HD-TV, HDMI, BlueRay
+Sinn von Prüfziffern (z.B. EAN, IBAN)
+
+Mathematik und Rechnungswesen
+-------------------------------
+Ermittlung und Bedeutung von Umsatz/Provision/Deckungsbeitrag/Kosten/Gewinn
+Zahlungsverzug
+	- Definition, Gründe, Konsequenzen
+	- Rechtsgrundlage/Definition für Zahlungsverzug
+Möglichkeiten zum Umgang mit Liquiditätsengpässen
+Gemeinkosten auf Kostenstellen verteilen
+Kosten für eine Produkteinführung berechnen
+Break-Even-Point ermitteln
+Gewinn ermitteln
+Vor-/Nachteile Kauf/Leasing/Miete
+Eigen- und Fremdfinanzierung
+Umrechnungen in Zahlensystemen (Dual, Dezimal, Oktal, Hexadezimal)
+Profit-Center-Organisation
+Handelskalkulation
+Betriebsabrechnungsbogen, Nachkalkulation, Zuschlagskalkulation
+Fehler in Lieferschein/Rechnung finden
+gesetzliche Gewährleistungsfrist ermitteln
+Umgang mit Mängeln, Mängelrüge
+Umgang mit Vertragsstörungen
+zweiseitiger Handelskauf und Rechte/Pflichten
+TCO erläutern
+Rabatt und Skonto berechnen
+
+Websites
+---------
+Vorteile von Internetseiten als Werbemittel
+grundlegende Kenntnisse von HTML, CSS, PHP
+Responsive Webdesign (mit HTML5 + CSS3)
+ergonomische Gestaltung von Websites
+CMS
+Mindestinhalte des Impressums
+virtuelle Hosts erläutern
+Möglichkeiten zur Unterscheidung von Websites auf einem Host: IP, Hostname, Port
+Funktion von htaccess erläutern
+dynamische Websites (CGI, ASP, JSP)
+	- Applet und Servlet unterscheiden 
+Web 2.0
+	- Social Networks, Wikis, Blogs, Twitter, Forum, Podcast
+AJAX
+	- Vor-/Nachteile
+	- Funktionsweise
+REST
+RIA
+JavaScript
+	- jQuery und andere Frameworks
+HTML5, CSS3
+	- Audio/Videoeinbettung/-unterstützung
+Anforderungen durch Mobilgeräte
+
+Internet
+---------
+Aufbau von URLs/URIs
+Beispiele für Browser/Webserver/Web-Programmiersprachen/(serverseitige) Scriptsprachen
+wichtige Protokolle und Ports (HTTP, FTP, SMTP, POP3, IMAP, telnet, NNTP, SMB)
+Vor-/Nachteile wichtiger Dateiformate (PDF, Bildformate)
+Ablauf beim Aufruf einer Website (Kommunikation Client/Server) und Verarbeitung bei PHP
+Sicherheit
+	- Hacker, Cracker, Script-Kiddies
+	- Phishing, Sniffing, Spoofing, Man-in-the-Middle
+	- SQL-Injection, XSS, CSRF, Session Hijacking, DoS, DDoS
+	- Viren, Würmer, Trojaner, Hoax, Spyware, Dialer, Keylogger, Botnetze, AdWare
+	- Verbreitung von Viren/Würmern/Trojaner erläutern
+	
+Hardware
+----------
+Prozessor/CPU, Kühlung
+	- von-Neumann-Architektur
+	- ALU
+RAM-Arten und Unterschiede
+Eigenschaften/Unterscheidung/Vor-/Nachteile DAS, SAN und NAS
+Unterschied Stack/Heap
+Abkürzungen und Bedeutung kennen: sATA, AGP, PCI, ISA, IDE, SCSI, iSCSI, SAS, USB, RAID, TFT, TCO, CRT, USV, SSD
+RAID 0, 1, 5, 10 usw., JBOD erklären
+Bluetooth, Firewire, USB
+WLAN
+	Hotspot, Ad-Hoc, Repeater, Access Point
+	Sicherheit (WPA, WEP, MAC-Kontrolle)
+BIOS, CMOS, Ablauf eines Systemstarts, Sinn von BIOS-Updates
+UEFI
+IDE: Master/Slave, Jumper
+Firmware, Flash-Speicher
+Arten von Druckern und Scannern
+	3D-Drucker
+Thin Clients/Fat Clients
+Tablets und mobile Geräte
+Bezugsquellen für Hardwarelieferanten
+Server-/Desktop-/Anwendungsvirtualisierung
+	- mögliche Arten der Virtualisierung: Hypervisor, Bare-Metal, Hosted
+	- Hardwareunterstützung
+	- Vor-/Nachteile der einzelnen Verfahren
+mögliche Aufgaben
+	- passende Komponenten für einen (Datenbank-/File-)Server oder Workstation (z.B. CAD, Office) auswählen
+	- PCs für bestimmte Anforderungen aus Komponenten zusammenstellen
+Green IT
+Smartphones
+Cloud Computing (Auswirkungen auf Softwareentwicklung, Hardware, Geschäftsmodelle)
+	- Platform/Infrastructure/Software as a Service (PaaS, IaaS, SaaS)
+USB 3.0
+USV
+	- Typen von USVen (z.B VFI) nach DIN EN 62040-3
+		- Voltage Independent, Voltage and Frequency Dependent, Voltage and Frequency Independent
+ 	- benötigte Scheinleistung für vorgegebene Hardware ermitteln
+	- Netzstörungen, vor denen USVen schützen
+Hot Swapping, Hot Spare erläutern
+Arbeitsweise von RFID, Barcodes und QR-Codes erläutern
+Vor-/Nachteile von SSIDs
+Power over Ethernet (PoE)
+BYOD
+
+Datenbanken
+------------
+unterschiedliche Architekturen (Client/Server, Dateibasiert)
+	- unterschiedliche Ansätze (relational, Netzwerk, hierarchisch, objektorientiert)
+	- Eigenschaften von relationalen Datenbanken
+	- ORM
+NoSQL (dokumentenorientiert, spaltenorientiert, Key/Value-Store, objektorientiert, Graphendatenbank)
+	- CAP-Theorem
+	- Map/Reduce
+	- Eventual Consistency
+Begriffe kennen und erläutern
+	- Redundanz, Primär-/Fremdschlüssel, Datensatz, INSERT
+	- referentielle Integrität
+		- Maßnahmen bei Löschoperationen (Constraints): CASCADE, DENY/RESTRICT, SET NULL
+	- Replikation erläutern
+	- Trigger erklären
+SQL-Abfragen
+	- Projektion vs. Selektion
+	- DDL, DML, DQL, DCL, DTL
+	- CRUD (Create, Read, Update, Delete)
+	- SELECT-Aufbau rauf und runter: FROM, WHERE, JOIN, GROUP-BY, HAVING, ORDER BY
+	- Kreuzprodukt
+	- verschiedene Joins erklären (INNER, OUTER LEFT/RIGHT/FULL, Natural, Self)
+	- Subqueries
+	- Schnitt-, Vereinigungs- und Differenzmenge (INTERSECT, UNION(ALL), MINUS)
+	- LIKE-Syntax (Platzhalter)
+SQL Injection erläutern
+Arbeitsschritte im DB-Design
+	- ER-Modelle erstellen
+	- Tabellenmodelle erstellen
+ACID-Prinzipien für Transaktionen kennen und erläutern (atomicity, consistency, isolation, durability)
+Anomalien (Einfüge-, Änderungs-, Löschanomalie) erläutern
+Entity-Relationship-Model und Tabellenmodell
+Normalformen erläutern ("the key, the whole key, and nothing but the key")
+	- Normalisierung von Datenbanken bis zur 3. Normalform durchführen
+Modellierung von Beziehungen (1:1, 1:n, m:n)
+	- mögliche Beispiele: Benutzer/Login (1:1), Benutzer/Bestellung(1:n), Benutzer/Benutzergruppe(m:n)
+Big Data
+	- 3 V-Modell (Data Velocity, Data Volume, Data Variety)
+mögliche Aufgaben
+	- vorhandenes Tabellenmodell normalisieren
+	- gültige Datensätze zu einem gegebenen Schema ermitteln können
+
+Betriebssysteme
+----------------
+verschiedene Betriebssysteme kennen (Linux, Windows, Android, iOS, Windows Phone)
+Unterschied Unix/Linux
+Vor-/Nachteilel Linux/Windows
+	Dateisysteme (FAT, NTFS, ext)
+	Aufbau des Dateibaums
+	Kommandozeile vs. GUI
+Linux
+	wichtige Befehle kennen (ls, chmod, chown, ps, grep, mount)
+	wichtige Verzeichnisse kennen (bin, boot, dev, etc, home, lib, root, sbin, var)
+	Dateirechtesysteme erklären (ugw + rwx)
+	gängige Linux-Distributionen nennen (Debian, Suse, Red Hat, Ubuntu etc.)
+	Wie wird die Hardware angesteuert?
+	Mounten von Laufwerken
+Samba/SMB
+Typen von Multitasking erläutern (kooperativ vs. präemptiv)
+Prozess vs. Task vs. Thread
+
+Soft-Skills
+------------
+Präsentieren
+	- Vorteile des Medieneinstatzes bei Präsentationen
+	- Aufbau von Präsentationen
+	- Aufmerksamkeit der Zuhörer gewinnen
+Ideenfindung/Kreativitätstechniken
+	- Brainstorming, Mindmap
+
+Rechtliches
+------------
+Datenschutz vs. Datensicherheit vs. Datensicherung
+	- Grundsätze des Datenschutzes
+		- Gesetzmässigkeit (Erfordernis der gesetzlichen Grundlage)
+		- Verhältnismässigkeit (Datensparsamkeit und Datenvermeidung (§3a BDSG))
+		- Zweckbindung (der Datenhaltung?)
+		- Richtigkeit / Integrität
+		- Transparenz gegenüber den betroffenen Personen
+		- Informationssicherheit
+	- EU-Datenschutz-Grundverordnung (EU-DSGVO)
+Urheberrecht
+	- von Patenten abgrenzen
+	- Creative Commons
+Persönlichkeitsrechte
+	- Recht am eigenen Bild
+Open Source
+Unfreier Versand
+Fernabsatzverträge
+Nachbesserung und Nachlieferung
+Gewährleistung vs. Garantie
+Mutterschutz, JAschG
+Betriebsrat
+	- Rechte und Pflichten
+	- rechtliche Voraussetzunge
+Kündigung
+	- gesetzliche/vertragliche Fristen
+	- notwendige Unterlagen
+Werks- vs. Dienstvertrag
+Inhalte von SLAs
+Arbeitsschutz
+	- Pflichten des Arbeitgebers bei Arbeitsunfällen
+	- Arbeitsvertrag
+		- Inhalte, Rechte/Pflichten
+		- kollektives Arbeitsrecht
+	- Inhalte der Personalakte
+	- Rechtsformen von Unternehmen (AG, GmbH, KG usw.)
+		- Voraussetzung, Haftung, Eigenkapital, Firma etc.
+	- verschiedene Versicherungen (z.B. Haftpflicht, Berufsunfähigkeit, Krankenversicherung, Rechtsschutz,
+		Hausrat, KFZ, Gebäudeversicherung usw.)
+	
+Marketing
+----------
+Vor-/Nachteile von Absatzwegen, Distributionspolitik
+Fachbegriffe kennen
+	- Marktvolumen, Absatz, Marktanalyse etc.
+	- B2B, B2C, B2G
+	- Umfrage, Beobachtung, Experiment, Testmarkt, Marktprognose, Panelerhebung
+	- Marktdurchdringung, Marktentwicklung, Markterschließung, Produktinnovation, Produktentwicklung, Diversifikation
+Optimierung des Kundenservice
+mögliche Quellen zur Marktforschung
+Ziele von Werbung
+AIDA (Attention, Interest, Desire, Action)
+Phasen des Produktlebenszyklus
+	- Einführung, Wachstum, Reife, Sättigung, Rückgang, End-of-Life
+Phasen der Technologieadaption
+	- Innovators, Early Adopters, Early Majority, Late Majority, Laggards
+Beispiele für niedrigen/hohen Markteinstiegspreis nennen
+Outsourcing (organisatorisch) vs. Offshoring (geografisch)
+Geschäftsmodelle im Internet
+	- Freemium
+
+Ergonomie 
+-----------
+Vorgaben bzgl. Arbeitsplatzergonomie kennen
+ergonomische Anforderungen an Bildschirm, Drucker, Stühle, Tische
+Warum reicht die Einhaltung der Ergonomie nicht aus, um körperliche Beschwerden auszuschließen?
+Was kann man zusätzlich tun?
+Nutzen ergonomischer Arbeitsplätze für das Unternen
+Ergonomierichtlinien beim Gestalten von Oberflächen für Software
+(Barrierefreiheit)
+
+Der Betrieb und sein Umfeld
+-----------------------------
+Vorteile eines betrieblichen Vorschlagwesens
+Beispiele zur Optimierung der Arbeitsabläufe
+Methoden zur Mitarbeitermotivation
+Standortfaktoren bewerten
+Marktformen bestimmen
+Angebotskalkulation
+(Arbeits-)Verträge
+	- Stellenbeschreibung
+Lohnabrechnung
+Gesellschaftsformen
+Aufbau- und Ablauforganisation
+	- Linien-/Matrixorganisation kennen (Vor-/Nachteile) und Organigramm erstellen
+Umweltschutz
+	- Green IT
+Workflow
+Zentralisierung/Dezentralisierung
+Unfallverhütung
+Fusion
